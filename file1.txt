@@ -1,1 +1,3 @@
 This text represents the "original" theme that I can see on GitHub. Typically it is publicly avaialable theme, e.g. Thanks Roy! that someone from Research IT has modified, e.g. UoMResearchIT/OmekaCustomTheme-ThanksRoy-Mummies 
+
+Line added to repo Common
